@@ -2,7 +2,7 @@
 This QR code generator built with Node.js enables easy generation of QR codes for various texts or URLs. With simple installation steps and intuitive usage, it empowers users to quickly create QR codes for their needs. Leveraging the `qr-image` library, it ensures efficient generation while providing a seamless experience. Get started with generating QR codes effortlessly and enhance your projects with this versatile tool.
 
 ## Installation
-1. Clone the PPT_GPT repository to your local machine.
+1. Clone this repository to your local machine.
 
 - `git clone https://github.com/Promodh-coder/QR-Code-Generator.git`
 
@@ -21,7 +21,7 @@ This QR code generator built with Node.js enables easy generation of QR codes fo
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to PPT_GPT, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository on GitHub.
 
