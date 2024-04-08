@@ -11,7 +11,7 @@ This QR code generator built with Node.js enables easy generation of QR codes fo
    - `npm i qr-image`
    - `npm i fs`
   
-## Working
+## Usage
 
 1. Run the command `node index.js` in the terminal.
 
