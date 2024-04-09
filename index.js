@@ -12,7 +12,7 @@ inquirer
   ])
   .then((answers) => {
       const url = answers.URL;
-      var qr_img = qr.image(url);
+      var qr_img = qr.image(url,{size: 200});
       qr_img.pipe(fs.createWriteStream("qr_img.png"));
       fs.writeFile("URL.txt", url, (err) => {
         if (err) throw err;
